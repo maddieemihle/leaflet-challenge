@@ -65,8 +65,7 @@ let map = L.map("mapid", {
 // Then add the 'basemap' tile layer to the map.
 baseMap.addTo(map);
 
-// Create the layer groups, base maps, and overlays for our two sets of data, earthquakes and tectonic_plates.
-// Add a control to the map that will allow the user to change which layers are visible.
+// Create the layer groups, base maps, and overlays.
 L.control.layers(baseMap, overlays,{
     collapsed: false
 }).addTo(map);

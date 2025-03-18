@@ -7,7 +7,7 @@ This challenge used skills learned with JavaScript, leaflet, GeoJSON, and HTML.
 
 ## Challenge 
 ### Part 1: Develop Earthquake Visualization 
-1. Retrieve the dataset from (USGS GeoJSON Feed)[https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php] to visualize and analyze. Using the URL of the selected data ("All Earthquakes from the past 7 days"), the JSON representation of the data was used.
+1. Retrieve the dataset from [USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) to visualize and analyze. Using the URL of the selected data ("All Earthquakes from the past 7 days"), the JSON representation of the data was used.
 
 2. Using Leaflet, a map was created, and the data from the chosen URL was plotted based on longitude and latitude. The data markers reflected the earthquake by size, and the depth was reflected by color. Earthquakes with a higher magnitude appeared larger, and earthquakes with a greater depth appeared darker in color. Pop-ups were included that provided additional information about the earthquake when its associated marker was clicked. A legend was created to provide context for the map data. 
 
@@ -16,8 +16,10 @@ This challenge used skills learned with JavaScript, leaflet, GeoJSON, and HTML.
 
 ## Results 
 ### Part 1 Results: Earthquake Visualization 
+![alt text](?raw=true) 
 
 ### Part 2 Results: Tectonic Plates and Seismic Activity 
+![alt text](?raw=true) 
 
 ## Methods Used
 * JavaScript
@@ -30,4 +32,4 @@ This challenge used skills learned with JavaScript, leaflet, GeoJSON, and HTML.
 * Visual Studio Code
 
 ## References 
-The dataset was created by the (United States Geological Survey)[https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php]. Instructions were provided by _edX Boot Camps LLC,_ and are intended for educational purposes only. 
+The dataset was created by the [United States Geological Survey](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php). Instructions were provided by _edX Boot Camps LLC,_ and are intended for educational purposes only. 
