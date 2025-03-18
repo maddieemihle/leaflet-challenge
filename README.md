@@ -16,10 +16,10 @@ This challenge used skills learned with JavaScript, leaflet, GeoJSON, and HTML.
 
 ## Results 
 ### Part 1 Results: Earthquake Visualization 
-![alt text](?raw=true) 
+![alt text](https://github.com/maddieemihle/leaflet-challenge/blob/main/Images/Level-1.png?raw=true) 
 
 ### Part 2 Results: Tectonic Plates and Seismic Activity 
-![alt text](?raw=true) 
+![alt text](https://github.com/maddieemihle/leaflet-challenge/blob/main/Images/Level-2.png?raw=true) 
 
 ## Methods Used
 * JavaScript
